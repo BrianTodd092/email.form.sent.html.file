@@ -1,18 +1,8 @@
  <!DOCTYPE html>
   <head>
   <title>PHP mail script</title>
-  <meta http-equiv="Content-type"
-        content="text/html; charset=utf-8"/>
-<style>
-.go { 
-        position: relative;
-        margin-left: auto;
-        margin-right: auto;
-        width:10%;
-        color: green;
-}
-</style>
- </head>
+  <meta http-equiv="Content-type"content="text/html; charset=utf-8"/>
+</head>
  <body>
   <?php
   //3 lines of code to retrieve the form data sent   "post" 
