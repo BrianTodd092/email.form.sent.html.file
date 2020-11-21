@@ -1,0 +1,38 @@
+body { overflow-x: hidden;}
+
+#sendmail  {
+             position: relative;
+             margin-left: auto;
+             margin-right: auto;
+             margin-top: 10%;
+             width: 20%;
+}
+
+fieldset {  
+             background-color: lightblue;
+             border-color: blue;
+
+
+
+}
+
+#sente { 
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        width:10%;
+        color: red;
+}
+
+#sentr { 
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        width:10%;
+        color: red;
+}
+
+a:link { color: green; text-decoration:none;}
+a:visited { color: black;}
+a:hover { color: lime;}
+a:active { color: darkcyan;}
