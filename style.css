@@ -1,4 +1,11 @@
 body { overflow-x: hidden;}
+.go { 
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        width:10%;
+        color: green;
+}
 
 #sendmail  {
              position: relative;
