@@ -2,6 +2,7 @@
   <head>
   <title>PHP mail script</title>
   <meta http-equiv="Content-type"content="text/html; charset=utf-8"/>
+   <link href="style.css" type="text/css" rel="stylesheet">
 </head>
  <body>
   <?php
